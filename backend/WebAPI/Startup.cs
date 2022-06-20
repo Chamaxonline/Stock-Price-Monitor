@@ -76,7 +76,7 @@ namespace FuelTracker.API
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Logistic ERP API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Stock Price Monitor API", Version = "v1" });
             });
         }
 
@@ -90,7 +90,7 @@ namespace FuelTracker.API
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Logistic ERP API");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Stock Price Monitor API");
             });
             app.UseHttpsRedirection();
 
