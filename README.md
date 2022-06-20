@@ -14,7 +14,7 @@ inside the Stock-Price-Monitor folder another folder which name backend. Open th
 Change the connectionstring which inside the appsettings.json
 Then create Database which name in the connsetionstring
 
-update the database file with following code
+update the database file with following code. It will generate the tables and the initial data
 
 ### `Update-Database`
 
