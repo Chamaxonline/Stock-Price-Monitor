@@ -32,4 +32,15 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 if you run backend correctly it wil looks like below
-image.png
+![image](https://user-images.githubusercontent.com/14096914/174651194-05b45ed8-c30e-469e-bd08-e4ab206b3909.png)
+
+
+if frondend is running correctly it will looks libe below
+
+![image](https://user-images.githubusercontent.com/14096914/174651738-73f2d185-6d9d-4b8d-887c-1f3e01c2d2f8.png)
+
+
+select the source and Ticker dropwodns it wil be like below
+![image](https://user-images.githubusercontent.com/14096914/174652067-754ee2d7-28c4-464b-9878-cc77bd966637.png)
+
+by clicking  `Add Random Prices` button can add new random prices
